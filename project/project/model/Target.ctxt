@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Target()
+comment1.params=originalImage
+comment1.target=void\ setOriginalImage(comp102x.ColorImage)
+comment2.params=
+comment2.target=void\ reset()
+comment3.params=
+comment3.target=boolean\ isHit()
+comment4.params=hit
+comment4.target=void\ setHit(boolean)
+numComments=5

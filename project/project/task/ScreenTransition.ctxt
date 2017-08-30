@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=image\ x\ y\ width\ height\ stripeSize
+comment0.target=void\ changeScreen(comp102x.ColorImage,\ int,\ int,\ int,\ int,\ int)
+comment1.params=image\ left\ top\ length\ stripeSize\ direction
+comment1.target=void\ animateStripe(comp102x.ColorImage,\ int,\ int,\ int,\ int,\ java.lang.String)
+comment2.params=ticks
+comment2.target=void\ pauseByTicks(long)
+numComments=3

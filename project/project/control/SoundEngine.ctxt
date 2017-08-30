@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SoundEngine()
+comment1.params=filepath\ soundID
+comment1.target=void\ loadSound(java.lang.String,\ java.lang.Integer)
+comment2.params=soundID
+comment2.target=void\ playSound(java.lang.Integer)
+comment3.params=soundID\ numberOfTimes
+comment3.target=void\ loopSound(java.lang.Integer,\ int)
+comment4.params=event
+comment4.target=void\ update(javax.sound.sampled.LineEvent)
+comment5.params=
+comment5.target=void\ stopAll()
+numComments=6

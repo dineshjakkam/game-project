@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=r
+comment0.target=void\ run(java.lang.Runnable)
+comment1.params=r
+comment1.target=void\ stop(java.lang.Runnable)
+numComments=2

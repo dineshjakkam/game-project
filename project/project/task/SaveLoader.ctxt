@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=records\ filename
+comment0.target=void\ saveGameRecords(comp102x.project.model.GameRecord[],\ java.lang.String)
+comment1.params=filename
+comment1.target=comp102x.project.model.GameRecord[]\ loadGameRecords(java.lang.String)
+numComments=2

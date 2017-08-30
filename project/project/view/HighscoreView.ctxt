@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=HighscoreView()
+comment1.params=
+comment1.target=void\ resetRecordTexts()
+comment2.params=records\ newRecord
+comment2.target=void\ setRecordTexts(comp102x.project.model.GameRecord[],\ comp102x.project.model.GameRecord)
+comment3.params=x\ y\ gameEngine
+comment3.target=void\ performClickAction(int,\ int,\ comp102x.project.control.GameEngine)
+comment4.params=key
+comment4.target=void\ performKeyAction(char)
+numComments=5

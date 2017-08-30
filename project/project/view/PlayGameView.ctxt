@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PlayGameView()
+comment1.params=targets\ bullet
+comment1.target=void\ loadView(comp102x.project.model.Target[],\ comp102x.project.model.Bullet)
+comment2.params=oldElement\ newElement
+comment2.target=void\ updateElement(comp102x.CanvasObject,\ comp102x.CanvasObject)
+comment3.params=x\ y\ gameEngine
+comment3.target=void\ performClickAction(int,\ int,\ comp102x.project.control.GameEngine)
+comment4.params=key
+comment4.target=void\ performKeyAction(char)
+comment5.params=bullet\ pp\ trajectory
+comment5.target=void\ updateAim(comp102x.project.model.Bullet,\ comp102x.project.model.PerspectiveProjection,\ comp102x.project.model.Trajectory)
+comment6.params=hitcount
+comment6.target=void\ setHitCount(int)
+comment7.params=time
+comment7.target=void\ setTime(int)
+numComments=8
