@@ -21,6 +21,6 @@ The aim of this project is to learn the fundamentals in Java. Programming fundam
 
 The template is provided with online course material at www.edx.org with the images, background music required for the game.
 
-The display of players log and highscore table is also coded (source code available in project folder highscore view file) but I have to take proper measures to make it work correctly at the end (currently not working). 
+The display of players log and highscore table is also coded (source code available in project folder highscore view file) but I have to take proper measures to make it work correctly at the end. 
 
 Thank you so much for your time.
